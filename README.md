@@ -1,2 +1,3 @@
 # neon-text-animation
-CSS animation - Website Link -->
+
+What I learned...
